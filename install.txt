@@ -1,0 +1,32 @@
+Welcome to SPoTiFy Jukebox
+
+1] Prerequisities
+
+Python3 (developed using Python 3.7.3)
+Spotipy package (developed using spotipy==2.13.0)
+Spotify account and access to API
+
+2] Install
+
+Unpack the zip to destination folder.
+
+3] Configuration
+
+This program is configured by placing Your credentials to sptf.py
+
+You will need:
+
+  a] Spotify Username
+  b] Spotify API Client ID
+  c] Spotify API Client Secret
+  d] Device ID
+
+ad d] Device ID can be retrieved by running dev.sh
+  after running the dev.sh choose the desired device ID and put it into
+  sptf.py
+
+Note: On the first run You'll need a web browser to allow the program on sptf
+
+4] Runtime
+
+To run the program just execute the run.sh script
